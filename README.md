@@ -1,3 +1,3 @@
-# Web_Applications
+# Depic
 
-Some of my endeavors in web applications
+Depict your business in all of the platforms
